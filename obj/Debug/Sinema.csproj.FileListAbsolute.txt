@@ -1,0 +1,12 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\Sinema\Sinema\bin\Debug\Sinema.exe.config
+c:\users\toshiba\documents\visual studio 2015\Projects\Sinema\Sinema\bin\Debug\Sinema.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\Sinema\Sinema\bin\Debug\Sinema.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\Sinema\Sinema\obj\Debug\Sinema.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2015\Projects\Sinema\Sinema\obj\Debug\Sinema.Form1.resources
+c:\users\toshiba\documents\visual studio 2015\Projects\Sinema\Sinema\obj\Debug\Sinema.Properties.Resources.resources
+c:\users\toshiba\documents\visual studio 2015\Projects\Sinema\Sinema\obj\Debug\Sinema.csproj.GenerateResource.Cache
+c:\users\toshiba\documents\visual studio 2015\Projects\Sinema\Sinema\obj\Debug\Sinema.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\Sinema\Sinema\obj\Debug\Sinema.pdb
+C:\Users\toshiba\Desktop\sinema\Sinema\bin\Debug\Sinema.exe.config
+C:\Users\toshiba\Desktop\sinema\Sinema\obj\Debug\Sinema.exe
+C:\Users\toshiba\Desktop\sinema\Sinema\obj\Debug\Sinema.pdb
